@@ -154,6 +154,7 @@ MODULE_TAGS = {
     'android.network_packets': ['android'],
 
     # Android - System
+    'android.critical_path': ['android', 'scheduling', 'cpu', 'performance'],
     'android.version': ['android', 'metadata'],
     'android.slices': ['android', 'trace'],
     'android.user_list': ['android', 'metadata'],
